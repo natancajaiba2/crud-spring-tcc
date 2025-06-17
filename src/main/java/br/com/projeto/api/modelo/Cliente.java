@@ -26,4 +26,6 @@ public class Cliente {
     private int idade;
 
     private String plano;
+
+    private String senha;
 }
